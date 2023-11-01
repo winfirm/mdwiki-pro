@@ -9,7 +9,7 @@ Supports Markdown with table spans over columns/rows.
 
 It's also 100% static single file CMS/Wiki done purely with client-side Javascript and HTML5.
 
-# Implementing way:
+# Implementing way
 
 First, package markdown-it and markdown-it-multimd-table to `js/markdonw-it.js`, export marked as parse method:
 ```
@@ -119,7 +119,7 @@ table expected on browser:
 More info about table usage:[markdown-it-multimd-table](https://github.com/redbug312/markdown-it-multimd-table)
 
 
-# Another Implementing way:
+# Another Implementing way
 
 Just takes online version of markdown-it and markdown-it-multimd-table to render markdown inputs: 
 
