@@ -18,7 +18,4 @@ unittests/lib/
 .editorconfig
 .jshintrc
 .travis.yml
-.bower.json
-.typings/
 package-lock.json
-extlib/
