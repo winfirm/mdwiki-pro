@@ -18,8 +18,8 @@ module.exports = function(grunt) {
     grunt.initConfig({
     // Metadata.
         pkg: {
-            name: 'MDwiki',
-            version: '0.6.2'
+            name: 'MDwiki-pro',
+            version: '1.0.0'
         },
 
         ownJsFiles: [
