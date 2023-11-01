@@ -9,6 +9,12 @@ Supports Markdown with table spans over columns/rows.
 
 It's also 100% static single file CMS/Wiki done purely with client-side Javascript and HTML5.
 
+# Live Demo site
+
+[MDwiki-pro docs site](https://winfirm.net/mdwiki-pro)
+
+
+
 # Implementing way
 
 First, package markdown-it and markdown-it-multimd-table to `js/markdonw-it.js`, export marked as parse method:
