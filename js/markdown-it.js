@@ -8923,7 +8923,8 @@
       multibody: true,
       autolabel: true,
     });
-    return md.render(src);
+    var mdstr = src.replace(/```tx\s*\n?([\s\S]+?)\s*```/g, function(match, content){return content.trim();});
+    return md.render(mdstr);
   }
 
   marked.setOptions=function(option){
