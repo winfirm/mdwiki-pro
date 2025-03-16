@@ -11,7 +11,7 @@ It's also 100% static single file CMS/Wiki done purely with client-side Javascri
 
 # Live Demo site
 
-[MDwiki-pro docs site](https://winfirm.net/mdwiki-pro)
+[MDwiki-pro docs site](https://winfirm.top/mdwiki-pro)
 
 
 # Newest Release 
